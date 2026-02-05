@@ -1,0 +1,14 @@
+{
+  "name": "web-agency-landing",
+  "description": "A simple web agency landing page built with HTML and CSS.",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}
